@@ -1,2 +1,2 @@
 # tcp-ip
-TCP/IP stack written in Zig
+A TCP/IP stack written in Zig
